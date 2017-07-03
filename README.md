@@ -9,4 +9,3 @@ bash install-tensorflow-cpu.sh
 python
 &&
 import tensorflow
-# If everything is install properly you will no error
