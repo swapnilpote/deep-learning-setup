@@ -8,6 +8,5 @@ bash install-tensorflow-cpu.sh
 # After that close terminal and reopen it type
 python
 &&
-# Then
 import tensorflow
 # If everything is install properly you will no error
